@@ -1,4 +1,4 @@
-![Calculator](C:\Users\macto\source\repos\MyCalculator\MyCalculator\897.webp)
+![Calculator](https://raw.githubusercontent.com/WipeRrr/MyCalculator/master/897.webp)
 
 Hello! Welcome to  console calculator.
 
