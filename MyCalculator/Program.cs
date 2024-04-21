@@ -12,7 +12,7 @@ namespace MyCalculator
             Console.WriteLine("Supported operators: +, -, *, /");
             Console.WriteLine("To get the result after the expression, press equals(=)");
             Console.WriteLine("Press Esc to exit app");
-            Console.WriteLine("\nWrite an expression. If you made a mistake with your input, you can delete it by pressing the backspace button");
+            Console.WriteLine("\nWrite an expression. If you made a mistake with your input, you can delete it by pressing the backspace button\n");
 
             Calculator calculator = new Calculator();
 
